@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
 import './welcome.scss'
-
+// comment
 import HomeSection from '../HomeSection'
 import Button from '../../button/Button'
 
